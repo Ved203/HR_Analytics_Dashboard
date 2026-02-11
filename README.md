@@ -1,4 +1,4 @@
-# HRvAnalytics Dashboard (Power BI)
+# HR Analytics Dashboard (Power BI)
 
 ##  Project Overview
 This project analyzes employee attrition using an HR Analytics dataset.  

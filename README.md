@@ -1,12 +1,12 @@
-# 📊 HRvAnalytics Dashboard (Power BI)
+# HRvAnalytics Dashboard (Power BI)
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes employee attrition using an HR Analytics dataset.  
 The objective is to identify key factors influencing employee turnover and present insights using an interactive Power BI dashboard.
 
 ---
 
-## 🔄 Data Preprocessing (Power Query Editor)
+## Data Preprocessing (Power Query Editor)
 
 The following data cleaning steps were performed:
 
@@ -18,7 +18,7 @@ The following data cleaning steps were performed:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 The dashboard includes:
 
@@ -33,7 +33,7 @@ The dashboard includes:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Power BI Desktop
 - Power Query Editor
@@ -42,7 +42,7 @@ The dashboard includes:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 data/HR_Analytics_Raw.csv  
 → Original dataset  
@@ -58,7 +58,7 @@ screenshots/dashboard_preview.png
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download the `.pbix` file
 2. Open using Power BI Desktop
@@ -66,7 +66,7 @@ screenshots/dashboard_preview.png
 
 ---
 
-## 📈 Key Insight
+## Key Insight
 
 The dashboard helps HR teams understand patterns behind employee attrition and supports data-driven decision making.
 The analysis reveals higher attrition among younger employees, lower salary groups, overtime workers, and specific departments and early-career engagement as major influencing factors.
